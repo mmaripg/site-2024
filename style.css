@@ -2,7 +2,7 @@
 
  body
 {
- background-color: pink;
+ background-image: linear-gradient(to right, pink, violet);
  color: black;
  font-size: 12pt;
  font-family: Arial;
